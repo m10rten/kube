@@ -7,3 +7,6 @@ console.info(`
   This version of @mvdlei/kube is a pre-release version.
   No functionality is supplied yet.
 `);
+
+export * from "./types";
+export * from "./consts";
